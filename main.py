@@ -74,12 +74,15 @@ def play(mot):
     guessed = True
 
     guessed_mot = []
-    guessed_lettre = []
+    guessed_lettres = []
+
 
     print(mot_complet)
 
     while essaies > 0 and guessed == False:
         guess = str(input("Veuillez saisir une lettre ou un mot: "))
+        if len(guess) == 1:
+            
         
 
 
