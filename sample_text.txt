@@ -1,0 +1,4 @@
+Bonjour à tous, ceci est un exemple de fichier texte.
+Ce fichier est utilisé pour un exercice Python.
+Python est un langage de programmation polyvalent.
+Les exercices permettent d'apprendre la programmation de manière efficace.
